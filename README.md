@@ -24,3 +24,8 @@ environments.
 Implemented agents acting in a simulated environment, starting with the simple
 reflex agent, and on to reflex agent with a state, goal based agent, a utility-based agent, a learning
 agent, and an agent capable of dealing with other agents.
+
+
+# Applied Artificial Intelligence
+
+Demonstrating porven projects in each of the major applied AI techniques: Rule-based system, fuzzy logic rule-based system, a probabilistic reasoning system, an automated decision-making system, and a learning system and a deep language model.
