@@ -24,6 +24,9 @@ The project was run and the following results were received:
 Ran for - No. of trials: 10000 and 100 steps
 
 Total Score: 5439662
+
 Average Score: 543.9662
+
 Total Score: 5502767
+
 Average Score: 550.2767
