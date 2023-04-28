@@ -3,8 +3,8 @@ A Markov decision process (MDP) refers to a stochastic decision-making process t
 
 In a Markov Decision Process, there are also 3 important properties that must be satisfied:
 
-The environment is fully observable. This means that all the stations are shown on the Tube map.
+1. The environment is fully observable. This means that all the stations are shown on the Tube map.
 
-The future is just dependent on the present.
+2. The future is just dependent on the present.
 
-The probability to reach the successor state only depends on the current state.
+3. The probability to reach the successor state only depends on the current state.
