@@ -21,6 +21,6 @@ partially observable environments, go on to dynamic environments, multi-agent se
 environments.
 
 # AI MODELS
-Implemented agents acting in a simulated Wumpus environment, starting with the simple
+Implemented agents acting in a simulated environment, starting with the simple
 reflex agent, and on to reflex agent with a state, goal based agent, a utility-based agent, a learning
 agent, and an agent capable of dealing with other agents.
