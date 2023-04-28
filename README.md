@@ -28,4 +28,4 @@ agent, and an agent capable of dealing with other agents.
 
 # Applied Artificial Intelligence
 
-Demonstrating porven projects in each of the major applied AI techniques: Rule-based system, fuzzy logic rule-based system, a probabilistic reasoning system, an automated decision-making system, and a learning system and a deep language model.
+Demonstrating proven projects in each of the major applied AI techniques: Rule-based system, fuzzy logic rule-based system, a probabilistic reasoning system, an automated decision-making system, and a learning system and a deep language model.
